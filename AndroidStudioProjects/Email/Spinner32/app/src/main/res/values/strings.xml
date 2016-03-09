@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner3</string>
+    <string-array name="players">
+        <item>sehwag</item>
+        <item>sachin</item>
+        <item>dhhda</item>
+        <item>yuvi</item>
+        <item>kohli</item>
+    </string-array>
+</resources>
